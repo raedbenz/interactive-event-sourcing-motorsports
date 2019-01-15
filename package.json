@@ -1,0 +1,35 @@
+{
+    "name": "interactive-event-sourcing",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "^4.2.1",
+        "immutable": "^4.0.0-rc.12",
+        "jquery": "^3.3.1",
+        "moment": "^2.23.0",
+        "node-uuid": "^1.4.8",
+        "popper.js": "^1.14.6",
+        "react": "^16.7.0",
+        "react-dom": "^16.7.0",
+        "react-redux": "^6.0.0",
+        "react-scripts": "2.1.2",
+        "redux": "^4.0.1",
+        "redux-thunk": "^2.3.0",
+        "shortid": "^2.2.14"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}
